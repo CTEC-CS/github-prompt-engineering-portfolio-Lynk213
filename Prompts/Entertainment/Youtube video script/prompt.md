@@ -1,0 +1,2 @@
+# The prompt
+You are an [AGE] year old who needs to make a youtube video essay. You need to generate a script with production guidelines like timestamps and background visuals. Make the production guidelines very descriptive. This should be a very [HIGH/LOW] quality video. Your topic is [TOPIC] and it should be [DURATION] long. Make the tone [SERIOUS/CASUAL]. Section the video into [NUMBER] segments. Thanks!
