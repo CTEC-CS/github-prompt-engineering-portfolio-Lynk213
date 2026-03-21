@@ -21,11 +21,11 @@ I start with what I need. I assess the result and take out as much unnecessary p
 - How AI could improve my life.
 - How AI could be improved to use less resources.
 - How AI could improve us to use less resources.
-- How we as a human race could make AI more sustainable
+- How we as a human race could make AI more sustainable  
 **Building:**
 - Useful resources for those that need it.
 - Things to help me with my hobbies.
-- Things to optimize my life.
+- Things to optimize my life.  
 **Exploring:**
 - Ways I can use AI to improve my workflow
 - Ways I can use AI to improve my mental health
@@ -36,7 +36,7 @@ I start with what I need. I assess the result and take out as much unnecessary p
 - CARE Framework
 - Single shot prompting
 - Chain of thought prompting
-- No shot prompting
+- No shot prompting  
 **Other Relevant Skills:**
 - Java Coding
 - HTML Programming
